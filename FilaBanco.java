@@ -27,6 +27,7 @@ public class FilaBanco implements Observer {
         this.pessoas[getSize()] = pessoa;
         heapifyUp(getSize());
         size++;
+        pessoa.addObserver(this);
     }
 
     private void heapifyUp(int index) {
