@@ -1,5 +1,3 @@
-package br.com.waldson.aula12;
-
 import java.util.Observable;
 
 public class Pessoa extends Observable {
