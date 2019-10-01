@@ -1,8 +1,3 @@
-package br.com.waldson.aula11;
-
-import br.com.waldson.aula12.FilaBanco;
-import br.com.waldson.aula12.Pessoa;
-
 public class Main {
 
     public static void main(String[] args) {
