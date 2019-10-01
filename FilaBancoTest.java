@@ -1,5 +1,3 @@
-package br.com.waldson.aula12;
-
 import org.junit.Before;
 import org.junit.Test;
 
